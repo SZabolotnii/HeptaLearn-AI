@@ -1,0 +1,5 @@
+{
+  "name": "HeptaLearn AI",
+  "description": "A deep learning environment implementing the 'Infinite Desk' methodology. Parse content, organize on a whiteboard, discuss with AI, and synthesize notes.",
+  "requestFramePermissions": []
+}
